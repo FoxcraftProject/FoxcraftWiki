@@ -6,9 +6,6 @@ excluded_in_search: true
 @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i";
 @fa-font-path: "../webfonts";
 
-* {
-    background-color: #0a0a0c;
-}
 
 .gh-source {
     display: block;
@@ -173,9 +170,9 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #222;
+    color: rgb(179, 179, 179);
     text-align: left;
-    background-color: #fff
+    background-color: #0a0a0c
 }
 
 [tabindex="-1"]:focus {
