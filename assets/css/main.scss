@@ -15,12 +15,12 @@ $site_color: {{ site.color }};
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/brands.css";
 
 //noinspection CssUnknownTarget
-@import "github";
+@import "https://raw.githubusercontent.com/GeyserMC/GeyserWiki/master/_sass/github.scss";
 
 @import "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css";
 
 //noinspection CssUnknownTarget
-@import "extras";
+@import "https://raw.githubusercontent.com/GeyserMC/GeyserWiki/master/_sass/extras.scss";
 
 //noinspection CssUnknownTarget
-@import "palette";
+@import "https://raw.githubusercontent.com/GeyserMC/GeyserWiki/master/_sass/palette.scss";
